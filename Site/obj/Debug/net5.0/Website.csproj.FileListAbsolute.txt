@@ -112,3 +112,4 @@ C:\Users\matao\Documents\Github\Site\obj\Debug\net5.0\Website.csproj.CopyComplet
 C:\Users\matao\Documents\Github\Site\obj\Debug\net5.0\Website.genruntimeconfig.cache
 C:\Users\matao\Documents\Github\Site\obj\Debug\net5.0\Razor\Pages\Order.cshtml.g.cs
 C:\Users\matao\Documents\Github\Site\obj\Debug\net5.0\Razor\Pages\OrderSuccess.cshtml.g.cs
+C:\Users\matao\Documents\Github\Site\obj\Debug\net5.0\Razor\Pages\Catalog.cshtml.g.cs

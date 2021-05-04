@@ -15629,6 +15629,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\matao\\Documents\\Github\\Site\\Pages\\Catalog.cshtml",
+      "TargetPath": "Pages\\Catalog.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\matao\\Documents\\Github\\Site\\Pages\\Order.cshtml",
       "TargetPath": "Pages\\Order.cshtml",
       "FileKind": "mvc"
