@@ -14,7 +14,7 @@ namespace Website.Pages
         [BindProperty(SupportsGet =true)]
         public int Id { get; set; }
         public Product Product { get; set;}
-                [BindProperty, EmailAddress, Required(ErrorMessage="Please input a valid email"), Display(Name="Email Address")]
+                [BindProperty, EmailAddress(ErrorMessage="Please input a valid email address"), Required(ErrorMessage="Please input an email address"), Display(Name="Email Address")]
         public string OrderEmail { get; set; }
         [BindProperty, Required(ErrorMessage="Please supply a shipping address"), Display(Name="Shipping Address")]
         public string OrderShipping { get; set; } 
